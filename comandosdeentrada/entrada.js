@@ -1,2 +1,3 @@
-let nome = 'Eduardo';
+var nome = 'Eduardo';
 document.write(nome);
+
