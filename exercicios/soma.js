@@ -6,4 +6,4 @@ function soma(numUm, numDois){
   return somaNumeros;
 }
 
-soma(1, 2);
+soma(1, 1);
